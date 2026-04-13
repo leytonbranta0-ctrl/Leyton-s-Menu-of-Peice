@@ -13,48 +13,48 @@ Also, this menu will be released as soon as it is done.
 - become master of lobby
 - AntiCheatCheck
 # MAIN
--SpeedBoost
--Platforms
--CosmeticX
--Teleportation
--SteamLongArms
--StickLongarms
--CustomLongarms
--kick gun
+- SpeedBoost
+- Platforms
+- CosmeticX
+- Teleportation
+- SteamLongArms
+- StickLongarms
+- CustomLongarms
+- kick gun
 
 # FUNNY
--Urine
--Feces
--seaman
--period
--vomit
--spit
--UrineGun
--FecesGun
--SeamanGun
--PeriodGun
--VomitGun
--SpitGun
--JumpscareGun
--InterSectionGun
--pleasureGun
--AutoRun
--ModGun
--AutoPinchClimb
--AutoBranch
--autoSuck
+- Urine
+- Feces
+- seaman
+- period
+- vomit
+- spit
+- UrineGun
+- FecesGun
+- SeamanGun
+- PeriodGun
+- VomitGun
+- SpitGun
+- JumpscareGun
+- InterSectionGun
+- pleasureGun
+- AutoRun
+- ModGun
+- AutoPinchClimb
+- AutoBranch
+- autoSuck
 # SOUNDS
--CreateSoundboard
--AddSounds
--MakeSoundboardFile
--Sounds
+- CreateSoundboard
+- AddSounds
+- MakeSoundboardFile
+- Sounds
 # PLUGINS
--GoToBepinex
--GoToPlugins
+- GoToBepinex
+- GoToPlugins
 # DISCONNECT
--Disconect
+- Disconect
 # SEARCH
--Search
+- Search
 # OwnerNotice
 Hello, I am The owner of this menu, if you want it... TO BAD! it is only given to my friends. BYE!
 
